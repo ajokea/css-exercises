@@ -1,4 +1,4 @@
-.basic, .cool {
+.odd {
     background-color: rgb(223, 111, 111);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -8,7 +8,7 @@
     font-size: 36px;
 }
 
-.cool, #another {
+.cool {
     font-size: 24px;
 }
 
